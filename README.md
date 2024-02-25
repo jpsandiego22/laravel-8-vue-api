@@ -66,5 +66,3 @@ if new version of node = "npx mix"
 11. Run
 npm run watch - continues running of npm run dev
 
-
-For more reference please visit mongodb-laravel-integration https://www.mongodb.com/compatibility/mongodb-laravel-intergration
